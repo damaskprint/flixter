@@ -1,24 +1,7 @@
-# README
+# Flixter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Flixer is an app that lets an administration add and remove courses for students to register for. The site lets recognizes accounts by Instructor and Student. Users who want to sign up for a class will need to enter payment before registering. A Card Payment API is used for charging users. Administrators are able to upload images and videos related to the course. 
 
-Things you may want to cover:
+Visit the Site: [Flixter](https://flixter-philip-cox.herokuapp.com/)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![FLisxter Pic](https://philipcox.netlify.app/flixter.png)
